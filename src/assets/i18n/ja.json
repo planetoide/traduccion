@@ -1,0 +1,10 @@
+{
+	"home": {
+		"title": "多言語アプリケーションへようこそ",
+		"subheader": "これはサブヘッダーです",
+		"welcomeback": "お帰りなさい {{name}}"
+	},
+	"language" : {
+        "select": "言語を選択する"
+    }
+}

@@ -1,0 +1,10 @@
+{
+	"home": {
+		"title": "Welcome to my multi lingual application",
+		"subheader": "This is sub header",
+		"welcomeback": "Welcome back {{name}}"
+	},
+	"language" : {
+        "select": "select language"
+    }
+}

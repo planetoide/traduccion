@@ -1,0 +1,10 @@
+{
+    "home" : {
+        "title": "Bienvenue dans mon application multilingue",
+        "subheader": "Ceci est le sous-titre",
+		"welcomeback": "content de te revoir {{name}}"
+    },
+    "language" : {
+        "select": "Choisir la langue"
+    }
+}
